@@ -58,11 +58,6 @@ Hi 👋 I’m **Aditi**, a Computer Science student passionate about building **
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=aditi3175&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
